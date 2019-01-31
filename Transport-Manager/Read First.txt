@@ -1,0 +1,9 @@
+Vue.JS Frontend Server
+
+step 1 - Run 'npm install'
+step 2 - Run 'npm run serve'
+
+This will starts the server on port 8080
+
+Then you can go to localhost:8080 to view website.
+

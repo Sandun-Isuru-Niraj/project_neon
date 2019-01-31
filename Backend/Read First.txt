@@ -1,0 +1,7 @@
+NodeJS Backend Server
+
+step 1 - Run 'npm install' inside this folder
+step 2 - Run 'node index.js' Inside this folder
+
+This will starts backend server on Port 3000
+
